@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Bigspring Light Nextjs",
+    "title": "Demo",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
@@ -29,7 +29,7 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "demo",
     "meta_image": "",
     "meta_description": "A SAAS template for nextjs"
   }
